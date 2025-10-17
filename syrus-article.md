@@ -12,16 +12,16 @@ See the introductions provided by Everett for examples (and in Everett’s book 
 
 The cult of Syrus of Genoa is created as a result of convergence of a number of issues
 
-Analysis: The Life of Syrus
+## Analysis: The Life of Syrus
 
 A very Janus-like life… first part looks northward, to early medieval Genoa… the second part looks southwards, out to the sea, reflecting later medieval Genoa.
 
 The second part can be seen as an appeal for support from the emergent and increasingly powerful—both politically and financially—merchant class.
 
-> It suggests that they had a role in the spread of Christianity. 
-> The character is secular ???
-> He is a trader (??) and a sailor (most certainly) with pan-Mediterranean contacts, assuming that Libya means Libya. 
-> Serves to remind the Genoese that the spirit of St. Syrus could accompany them on their long and often dangerous voyages
+- It suggests that they had a role in the spread of Christianity.
+- The character is secular ???
+- He is a trader (??) and a sailor (most certainly) with pan-Mediterranean contacts, assuming that Libya means Libya
+- Serves to remind the Genoese that the spirit of St. Syrus could accompany them on their long and often dangerous voyages
 
 Written at an apex, mid 11^th^ century, of the transformation of Genoa from minor suffragan to Milan to Mediterranean naval power.
 
@@ -41,7 +41,7 @@ He is banished for inappropriate display of piety … any precedence for this?
 
 Translation of relics to Libya… look into claims made by the Bollandist whether this means Africa or just some place on the Italian coast
 
-Syrus dies relatively early in this Life, perhaps even before the half-way point. What does this say about the emphasis? How does this compare with the other hagiographies we have studied.
+Syrus dies relatively early in this Life, perhaps even before the half-way point. What does this say about the emphasis? How does this compare with the other hagiographies we have studied
 
 ## The historical Syrus
 
@@ -58,7 +58,6 @@ Carolingian Liguria
 Unlike Milan and Pavia, with their strong central histories to both the Lombard and Carolingian kingdom, and where the church was a powerful political force and substantial landholder, it was a relatively minor property holder within the urbs of Genoa
 
 - San Siro / San Lorenzo
-
 - Majority of properties in the Levante
 - Reflective of the Ligurian coast during the 10-11c as a collection of relatively large towns, with no single town (i.e. Genoa) yet dominant; as such, the center/periphery model appropriate to other northern Italian cities at this time does not really apply in Liguria.
 - Reflects the decline in Genoa (both politically, religiously, and economically) following the Byzantine era (real or perceived declines)
@@ -102,6 +101,8 @@ Cathedral conflicts: S. Siro vs. S. Lorenzo and the tenth century rise of S. Sir
 
 ## Bibliography
 
+Angeli Bertinelli, G. M. “Le origini: l’età romana e tardoantica” in *Atti della società ligure di storia* *patria* n.s. 39 (1999), pp. 33-75.
+
 Brown, Peter. *The Cult of the Saints: It’s Rise and Function in Latin Christianity*. University of Chicago Press, 1981.
 
 Epstein, Steven. *Genoa and the Genoese, 958-1528*. Chapel Hill: University of North Carolina Press, 1996.
@@ -110,12 +111,18 @@ Everett, Nicholas. “The hagiography of Lombard Italy” in *Hagiographica* 6 (
 
 ———. *Literacy in Lombard Italy, c. 568-774*. Cambridge Studies in Medieval Life and Thought 53. Cambridge University Press, 2003.
 
+Guglielmotti, Paola. *Ricerche sull’organizzazione del territorio nella Liguria medievale*.
+
 Liutprand of Cremona. *The Complete Works of Liutprand of Cremona*. Translated by Paolo Squatriti. Washington DC: The Catholic University of America Press, 2003.
+
+Paul the Deacon. History of the Lombards
 
 Pavoni, Romeo. *Liguria medievale*. Genoa: ECIG, 1992.
 
 Promis, Vincenzo. “Legenda e inni di San Siro vescovo di Genova” in Atti della Società Ligure di Storia Patria 10 (1874), pp. 355-83.
 
 Rauer, Christine. *Beowulf and the Dragon: Parallels and Analogues*. Cambridge, D. S. Brewer, 2000.
+
+Vocino, Giorgia. *Santi e luoghi santi al servizio della politica carolingia (774-877). Vitae e Passiones del regno italico nel contesto europeo*.
 
 Wickham, Chris. *Early Medieval Italy: Central Power and Local Soceity, 400-1000*. Ann Arbor: University of Michigan Press, 1991.
